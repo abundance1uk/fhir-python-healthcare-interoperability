@@ -1,0 +1,26 @@
+[
+  {
+    "mrn": "demo-001",
+    "patient_id": "524813",
+    "observation_ids": [
+      "524814",
+      "524815"
+    ]
+  },
+  {
+    "mrn": "demo-002",
+    "patient_id": "524816",
+    "observation_ids": [
+      "524817",
+      "524818"
+    ]
+  },
+  {
+    "mrn": "demo-003",
+    "patient_id": "524819",
+    "observation_ids": [
+      "524820",
+      "524821"
+    ]
+  }
+]

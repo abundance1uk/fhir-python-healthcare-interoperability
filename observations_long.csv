@@ -1,0 +1,7 @@
+observation_id,patient_id,loinc_code,measurement,value,unit,recorded_at,status
+524814,524813,8867-4,Heart rate,72.0,beats/minute,2026-11-12T20:40:08+00:00,final
+524815,524813,8310-5,Body temperature,36.8,degC,2026-11-12T20:40:10+00:00,final
+524817,524816,8867-4,Heart rate,88.0,beats/minute,2026-11-12T20:40:12+00:00,final
+524818,524816,8310-5,Body temperature,37.9,degC,2026-11-12T20:40:13+00:00,final
+524820,524819,8867-4,Heart rate,64.0,beats/minute,2026-11-12T20:40:16+00:00,final
+524821,524819,8310-5,Body temperature,36.5,degC,2026-11-12T20:40:18+00:00,final

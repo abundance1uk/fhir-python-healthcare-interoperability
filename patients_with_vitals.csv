@@ -1,0 +1,4 @@
+patient_id,mrn,given_name,family_name,gender,birth_date,age_years,heart_rate_bpm,temperature_c
+524813,demo-001,Ada,Demo,female,1990-04-12,36,72.0,36.8
+524816,demo-002,Tunde,Demo,male,1984-09-30,42,88.0,37.9
+524819,demo-003,Ngozi,Demo,female,2001-01-25,25,64.0,36.5
